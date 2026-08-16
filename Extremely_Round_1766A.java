@@ -18,5 +18,6 @@ public class Extremely_Round_1766A {
 
             System.out.println(answer);
         }
+        sc.close() ;
     }
 }
